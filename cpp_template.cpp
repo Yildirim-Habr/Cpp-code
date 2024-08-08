@@ -29,7 +29,8 @@ int main() {
     cout.precision(12);
     cout << fixed;
     
-    int t = 1;
+    int t; 
+    t = 1;
     //cin >> t;
 
     while (t--) {
